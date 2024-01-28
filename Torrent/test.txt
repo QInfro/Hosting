@@ -1,2 +1,2 @@
-https://tr.highstar.shop:443/announce 
+https://tr.highstar.shop:443/announce
 https://123.com:443/announce
